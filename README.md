@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Japakan Mahendran</h1>
 
-<div align"center"> <img src="https://github.com/Japakan/japakan/Banner.png"> <div>
+<div align"center"> <img src="https://github.com/Japakan/Japakan/blob/5ac282a6a8d68652fedbedafed127a49f2c9d4b3/Banner.png"> <div>
 
 <h3 align="center"> I am a IT Support Specialist based in Qatar. I have 3 years of IT Industry experience in Network Support and user L2 & L3 Support as well.</h3>
 
