@@ -2,7 +2,9 @@
 
 <div align"center"> <img src="https://github.com/Japakan/Japakan/blob/5ac282a6a8d68652fedbedafed127a49f2c9d4b3/Banner.png"> <div>
 
-<h3 align="center"> I am a IT Support Specialist based in Qatar. I have 3 years of IT Industry experience in Network Support and user L2 & L3 Support as well.</h3>
+<h3 align="center"> Responsible for providing technical support for a full range of
+business technology, including computer systems (hardware and software), network
+infrastructure, mobile devices, telephone systems, and audio-visual equipment. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japakan&label=Profile%20views&color=0e75b6&style=flat" alt="japakan" /> </p>
 
@@ -21,7 +23,7 @@
 <div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0002.jpg"> <div>
 <div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0003.jpg"> <div>
 <div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0004.jpg"> <div>
-<div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0005.jpg"> <div>
+
 <div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0006.jpg"> <div>
 <div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0007.jpg"> <div>
 <div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0008.jpg"> <div>
