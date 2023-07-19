@@ -20,7 +20,7 @@ infrastructure, mobile devices, telephone systems, and audio-visual equipment. <
 
 - 📫 How to reach me **japakansub@gmail.com**
 
-- <div>
+<div>
   <button>Download CV</button>
 </div>
 
