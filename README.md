@@ -20,9 +20,10 @@ infrastructure, mobile devices, telephone systems, and audio-visual equipment. <
 
 - 📫 How to reach me **japakansub@gmail.com**
 
-<div>
-  <button style="color:red">Download CV</button>
-</div>
+
+
+<a href="https://github.com/Japakan/Japakan/blob/main/IT%20Support%20Specialist-JAPAKAN.pdf" download>📥 Download my CV</a>
+
 
 <div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0002.jpg"> <div>
 <div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0003.jpg"> <div>
