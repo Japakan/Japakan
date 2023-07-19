@@ -12,7 +12,7 @@ infrastructure, mobile devices, telephone systems, and audio-visual equipment. <
 
 <p align="left"> <a href="https://twitter.com/imjapakan" target="blank"><img src="https://img.shields.io/twitter/follow/imjapakan?logo=twitter&style=for-the-badge" alt="imjapakan" /></a> </p>
 
-- 🔭 I’m currently working on **Al Emadi Enterprises - Alhazm**
+- 🔭 I’m currently working at **Al Emadi Enterprises - Alhazm**
 
 - 🌱 I’m currently learning **CCNA,COMPTIA A+ Network+ CySA+ ,MCSA**
 
