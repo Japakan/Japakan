@@ -18,6 +18,17 @@
 
 - 📫 How to reach me **japakansub@gmail.com**
 
+<div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0002.jpg"> <div>
+<div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0003.jpg"> <div>
+<div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0004.jpg"> <div>
+<div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0005.jpg"> <div>
+<div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0006.jpg"> <div>
+<div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0007.jpg"> <div>
+<div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0008.jpg"> <div>
+<div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0009.jpg"> <div>
+<div align"center"> <img src="https://github.com/Japakan/Japakan/blob/main/Portfolio%20-%20Presentation-MJapakan_page-0010.jpg"> <div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imjapakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imjapakan" height="30" width="40" /></a>
