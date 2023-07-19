@@ -16,7 +16,7 @@ infrastructure, mobile devices, telephone systems, and audio-visual equipment. <
 
 - 🌱 I’m currently learning **CCNA,COMPTIA A+ Network+ CySA+ ,MCSA**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/14iF-ZR2pnV-KSXkqOl4uo0fOmrBHQWZj/view?usp=sharing](https://drive.google.com/file/d/14iF-ZR2pnV-KSXkqOl4uo0fOmrBHQWZj/view?usp=sharing)
+- 👨‍💻 All of my projects are available at https://shorturl.at/koM29
 
 - 📫 How to reach me **japakansub@gmail.com**
 
